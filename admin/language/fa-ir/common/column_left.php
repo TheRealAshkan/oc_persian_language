@@ -1,0 +1,87 @@
+<?php
+// Forum  : WwW.OpenCartFarsi.com
+// Website: WwW.OpenCartFarsi.ir
+// E-Mail : info@OpenCartFarsi.ir
+
+// Text
+$_['text_address_format']      = 'فرمت آدرس';
+$_['text_affiliate']           = 'بازاریابی';
+$_['text_api']                 = 'رابط برنامه نویسی نرم افزار (API)';
+$_['text_attribute']           = 'خصوصیات';
+$_['text_attribute_group']     = 'گروه خصوصیات';
+$_['text_backup']              = 'تهیه پشتیبان / بازيابی';
+$_['text_banner']              = 'بنر (آگهی) ها';
+$_['text_catalog']             = 'کاتالوگ';
+$_['text_category']            = 'دسته بندی ها';
+$_['text_contact']             = 'ایمیل';
+$_['text_country']             = 'کشورها';
+$_['text_coupon']              = 'کوپن ها';
+$_['text_cron']                = 'کرون جاب ها';
+$_['text_currency']            = 'واحدهای پول';
+$_['text_customer']            = 'مشتریان';
+$_['text_customer_approval']   = 'مشتریان در انتظار تایید';
+$_['text_customer_group']      = 'گروه های مشتری';
+$_['text_customer_online']     = 'مشتری های آنلاین';
+$_['text_custom_field']        = 'فیلدهای دلخواه';
+$_['text_dashboard']           = 'پیشخوان';
+$_['text_design']              = 'طراحی';
+$_['text_download']            = 'دانلودها';
+$_['text_log']                 = 'لیست خطاها';
+$_['text_event']               = 'رویداد ها';
+$_['text_extension']           = 'افزونه ها';
+$_['text_filter']              = 'فیلترها';
+$_['text_geo_zone']            = 'مناطق جغرافیایی';
+$_['text_gdpr']                = 'GDPR';
+$_['text_information']         = 'اطلاعات';
+$_['text_installer']           = 'نصب افزونه';
+$_['text_language']            = 'زبان ها';
+$_['text_language_editor']     = 'ویرایشگر زبان';
+$_['text_layout']              = 'چیدمان ها';
+$_['text_length_class']        = 'کلاس های طولی';
+$_['text_localisation']        = 'محلی سازی';
+$_['text_location']            = 'مکان فروشگاه';
+$_['text_maintenance']         = 'تعمیر و نگهداری';
+$_['text_manufacturer']        = 'توليدکنندگان';
+$_['text_marketing']           = 'تبلیغات و بازاریابی';
+$_['text_marketplace']         = 'مرکز خرید';
+$_['text_menu']                = 'مدیریت منو';
+$_['text_navigation']          = 'منو مدیریت';
+$_['text_online']              = 'افراد آنلاین';
+$_['text_option']              = 'گزینه‌ ها';
+$_['text_order']               = 'سفارش ها';
+$_['text_order_status']        = 'وضعیت های سفارش';
+$_['text_product']             = 'محصولات';
+$_['text_product_option']      = 'گزینه های محصول';
+$_['text_reports']             = 'گزارش ها';
+$_['text_review']              = 'نظرات';
+$_['text_return']              = 'برگشتی ها';
+$_['text_return_action']       = 'عملیات برگشت';
+$_['text_return_reason']       = 'دلایل برگشت';
+$_['text_return_status']       = 'وضعیت های برگشت';
+$_['text_sale']                = 'فروش';
+$_['text_setting']             = 'تنظیمات';
+$_['text_seo_url']             = 'آدرس های سئو';
+$_['text_startup']             = 'استارت آپ';
+$_['text_statistics']          = 'آمار';
+$_['text_stock_status']        = 'وضعیت های انبار';
+$_['text_system']              = 'سیستم';
+$_['text_subscription_plan']   = 'پنل های اشتراک';
+$_['text_subscription']        = 'اشتراک ها';
+$_['text_subscription_status'] = 'وضعیت های اشتراک';
+$_['text_tax']                 = 'مالیات ها';
+$_['text_tax_class']           = 'کلاس های مالیاتی';
+$_['text_tax_rate']            = 'نرخ های مالیات';
+$_['text_theme']               = 'ویرایشگر قالب';
+$_['text_translation']         = 'زبان ها';
+$_['text_upgrade']             = 'آپگرید';
+$_['text_upload']              = 'آپلودها';
+$_['text_users']               = 'کاربران';
+$_['text_user_group']          = 'گروه های کاربری';
+$_['text_voucher']             = 'کارت هدیه';
+$_['text_voucher_theme']       = 'قالب کارت هدیه';
+$_['text_weight_class']        = 'کلاس های وزنی';
+$_['text_zone']                = 'استان ها';
+$_['text_complete_status']     = 'سفارش های تکمیل شده'; 
+$_['text_processing_status']   = 'سفارش های درحال پردازش'; 
+$_['text_other_status']        = 'دیگر وضعیت ها'; 
+?>
